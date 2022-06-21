@@ -9,3 +9,6 @@ I started with making pictures of spills of various fertilizers. Below is a coup
 
 <img src="https://github.com/max-poltora/fertilizer_particles_recognizer/blob/main/Example%20pictures/IMG_20200626_121552.jpg" height="300px"> <img src="https://github.com/max-poltora/fertilizer_particles_recognizer/blob/main/Example%20pictures/an_1.jpg" width="300px" height="300px">
 
+What aim is, basically, to recognize every single particle on an image, like follows:
+
+<img src="https://github.com/max-poltora/fertilizer_particles_recognizer/blob/main/Example%20pictures/Segmentation%20gif.gif" height="300px">
