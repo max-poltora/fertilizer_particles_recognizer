@@ -6,7 +6,7 @@ Fertilizer can be defined as any material of natural (organic fertilizer) or syn
 This project is performed for self-learning purposes and to gain practical experience in neural networks usage for images segmentation. In general, major obective can be formulated as following question: is it possible to assess particle sizes of a random fertilizer sample by simply pouring it onto a surface and making a picture with a smartphone camera. This process can be devided into several stages, which are listed below in more details. 
 <p align="center">
   <img src="https://github.com/max-poltora/fertilizer_particles_recognizer/blob/main/Example%20pictures/Segmentation.gif" height="300px"> <br />
-  <em>Picture of a fertilizer spill with each particle being recognized and pictured with different colours</em>
+  <em>Picture of a fertilizer spill with each particle being identiffied and segmented with different colours</em>
 </p>
 I started with making pictures of spills of various fertilizers. Below is a couple of images as an example:
 
