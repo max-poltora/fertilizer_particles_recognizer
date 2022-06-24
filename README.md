@@ -10,7 +10,7 @@ This project is performed for self-learning purposes and to gain practical exper
   </p>
   
 <p align="center">
-<img src="https://github.com/max-poltora/fertilizer_particles_recognizer/blob/main/Example%20pictures/Segmentation.gif" height="300px"> <br />
+<img src="https://github.com/max-poltora/fertilizer_particles_recognizer/blob/main/Example%20files/Segmentation.gif" height="300px"> <br />
 <em>Picture of a fertilizer spill with each particle being identiffied and segmented with different colours</em>
   </p>
 
